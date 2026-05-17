@@ -15,4 +15,4 @@ A simple MATLAB project that simulates a real-life traffic light system.
 Open `traffic_light.m` and run the script.
 
 ## Author
-Your Name
+Mahchudur Rahman
